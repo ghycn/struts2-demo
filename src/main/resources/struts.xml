@@ -4,7 +4,7 @@
     "http://struts.apache.org/dtds/struts-2.3.dtd">
 <struts>
 	<!-- 开发模式 -->
-	<constant name="struts.devMode" value="false" /> 
+	<constant name="struts.devMode" value="true" />
 	<!-- Web运用编码 -->   
 	<constant name="struts.i18n.encoding" value="UTF-8" />
 	<!-- 搜索视图资源的路径 -->                         
