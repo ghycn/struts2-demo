@@ -15,10 +15,4 @@ public class LoginAction {
         System.out.println(555);
         return "index_2";
     }
-
-    @Action(value = "/hello1/index")
-    public String hello1() {
-        System.out.println(11);
-        return "index_2";
-    }
 }
