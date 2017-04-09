@@ -12,7 +12,7 @@ import org.apache.struts2.convention.annotation.Results;
 public class LoginAction {
     @Action(value = "index")
     public String hello() {
-        System.out.println(555);
+        System.out.println(5115665);
         return "index_2";
     }
 }
